@@ -2,9 +2,7 @@ programa teste
     inteiro a b c
 inicio
     leia a
-    leia b
-    leia c
     b <- a * 10
     c <- a - 1
-    escreva b + c
+    escreva b + cabecalho
 fimprograma
